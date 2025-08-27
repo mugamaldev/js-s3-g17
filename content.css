@@ -1,0 +1,54 @@
+/*
+
+    CLIENT SIDE ==> Any file would be visible for all users
+        ex => HTML | CSS | JS | Bootstrap
+    ##Javascript
+    1. Introduction into Javascript
+
+        JavaScript لغة برمجة تشتغل داخل المتصفح.
+
+        تخلّي صفحات الويب تتفاعل مع المستخدم.
+
+        مثال: لما تضغط على زر فيظهر لك رسالة، أو يتغير لون الصفحة.
+
+        Use for
+                تعديل المحتوى في الصفحة.
+
+                التحقق من المدخلات.
+                Validation
+
+                إرسال واستقبال البيانات من السيرفر.
+                Ajax
+
+                تحكم في العناصر، الأحداث، والصور… إلخ.
+                Display, events, images
+    #############################################################################
+    2. How to include Js files in your project
+
+            <button onclick="alert('Hello')">Click Me</button>
+            <script>
+                console.log("Hello from internal JS");
+            </script>
+            <script src="main.js"></script>
+    ##############################################################################
+    3. Data Types ( String | Number | Boolean | Null | Undefined ) => typeof
+
+    4. Variables ( let | var | const ) المتغيرات
+
+    var => function scoped ( Able to modify )
+    let => block scoped ( Able to modify )
+    const => block scoped ( Unable to modify )
+
+    + - / * %
+
+    5- Conditions if | else | else if      == === < > != 
+        Logical => &&  ||
+
+    6- Operators
+
+    7- for loop
+
+    8- function
+
+    
+*/
